@@ -59,8 +59,7 @@ jobs:
       with:
         test-name: Step 5 Merge your pull request
         setup-command: sleep 20
-        command: "[ $(cat .github/script/STEP) -ge 5 ] || [ $(cat .github/script/STEP)
-          = X ]"
+        command: "[ 1 = X ]"
         timeout: 10
         max-score: 1
     - name: Autograding Reporter
