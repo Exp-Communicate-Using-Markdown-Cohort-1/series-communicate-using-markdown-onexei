@@ -3,7 +3,7 @@
 ##### I made changes to this file.
 ## hi
 
-### go
+### go ghd djd  ddbdhb skdbksd jkdbskd bjsbdkjb sdkjsbdkbdkb sk dksd jdbjbds dd jbdj bsj bdjsb d
 
 #### b
 ###### h
@@ -15,10 +15,13 @@
 
 
 ```
-print("Hello World")
+$ git init
+Initalized empty Git repository in /Users/skills/jects/recipe-repository/.git/
 ```
 
 
 - [x] Introduction to github
-- [ ] Github experience
+- [x] Github experience
 - [ ] Github Campus
+
+
